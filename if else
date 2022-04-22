@@ -1,0 +1,7 @@
+s=input("enter your gender")
+if s=='f' or s=='F':
+    print("yesa")
+if s=='m' or s=='M':
+    print("male")
+else:
+        print("others")
